@@ -1,0 +1,2 @@
+# JepordyAI
+flashcard app
